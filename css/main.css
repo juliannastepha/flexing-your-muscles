@@ -14,7 +14,7 @@ body {
 
 img {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 .footer {
@@ -36,7 +36,7 @@ img {
 }
 
 .copyright {
-  width: 100%
+  width: 100%;
   padding: 0 1rem;
 }
 
@@ -63,5 +63,5 @@ img {
 }
 
 .links {
-  padding-left: 0 1rem;
+  padding: 0 1rem;
 }
